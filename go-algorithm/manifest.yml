@@ -1,0 +1,5 @@
+applications:
+- name: execute-algorithm
+  mem: 2G
+  disk: 2G
+  instances: 1
